@@ -1,7 +1,7 @@
 {
   "name": "playlist-calculator",
   "version": "1.0.0",
-  "description": "test",
+  "description": "playlist-calculator is a JavaScript package that fetches and calculates the total duration of a YouTube playlist. It retrieves video durations from a given playlist, computes the total length, average video length, and provides options to view the longest and shortest videos.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ytplaylistlength/playlist-calculator-js/issues"
   },
-  "homepage": "https://ytplaylistlength.org/"
+  "homepage": "https://ytplaylistlength.org/",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "isodate": "^0.1.4"
+  }
 }
