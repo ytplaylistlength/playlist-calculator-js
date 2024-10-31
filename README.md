@@ -4,7 +4,7 @@
   <img src="https://ytplaylistlength.org/static/logo.svg" alt="YouTube Playlist Length Calculator Logo" width="200"/>
 </p>
 
-[Homepage](https://ytplaylistlength.org/) |
+[YouTube Playlist Length Calculator](https://ytplaylistlength.org/) |
 
 `playlist-calculator` is a JavaScript package for fetching and calculating the total duration of YouTube playlists. It retrieves video durations, calculates the total length, average video length, and identifies the longest and shortest videos in a playlist.
 
