@@ -1,0 +1,22 @@
+{
+  "name": "playlist-calculator",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytplaylistlength/playlist-calculator-js.git"
+  },
+  "keywords": [
+    "playlist-length"
+  ],
+  "author": "ytplaylistlength",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytplaylistlength/playlist-calculator-js/issues"
+  },
+  "homepage": "https://ytplaylistlength.org/"
+}
