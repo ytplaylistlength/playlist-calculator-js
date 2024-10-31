@@ -20,3 +20,6 @@ Install the package via npm:
 
 ```bash
 npm install playlist-calculator
+```
+## Homepage
+<a href="https://ytplaylistlength.org/" target="_blank">YouTube Playlist Length Calculator</a>
